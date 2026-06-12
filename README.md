@@ -15,7 +15,6 @@ If you enjoy my work or find my projects helpful, consider supporting me:
 
 A simple Instagram login page clone built with HTML, CSS, and JavaScript for educational and demonstration purposes. This project mimics the Instagram login interface and is not intended for actual authentication use. 
 
-" IF YOU KNOW YOU KNOW HOW TO USE IT "
 
 ## Features
 
